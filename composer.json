@@ -1,0 +1,17 @@
+{
+    "name": "nicolas/persocrud",
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nicolas\\Persocrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NicolasDrp",
+            "email": "drapier.nicolas07@gmail.com"
+        }
+    ]
+}
